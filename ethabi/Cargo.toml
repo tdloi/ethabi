@@ -1,5 +1,5 @@
 [package]
-name = "ethabi"
+name = "ethabi-fork-ethcontract"
 version = "13.0.0"
 authors = [
     "Parity Technologies <admin@parity.io>",
